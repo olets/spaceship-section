@@ -128,9 +128,9 @@ This section is shown only in directories within a foobar context.
 | `SPACESHIP_FOOBAR_SYMBOL` |               `😍·`                | Character to be shown before version |
 | `SPACESHIP_FOOBAR_COLOR`  |             `yellow`               | Color of section                     |
 
-## License
+## 📄 License
 
-MIT © [Name Surname](http://yourwebsite.com)
+MIT © [Denys Dovhan](http://denysdovhan.com)
 
 <!-- References -->
 
